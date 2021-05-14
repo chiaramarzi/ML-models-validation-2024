@@ -11,6 +11,8 @@ Both regression and classification ("young" vs. "old") tasks were performed, thr
 
 # References
 
-Marzi, C., Giannelli, M., Tessa, C. et al. Toward a more reliable characterization of fractal properties of the cerebral cortex of healthy subjects during the lifespan. Sci Rep 10, 16957 (2020). https://doi.org/10.1038/s41598-020-73961-w
+Marzi, C., Giannelli, M., Tessa, C., Mascalchi M., and Diciotti S. Toward a more reliable characterization of fractal properties of the cerebral cortex of healthy subjects during the lifespan. Sci Rep 10, 16957 (2020). https://doi.org/10.1038/s41598-020-73961-w
 
 Mazziotta, J. et al. A probabilistic atlas and reference system for the human brain: International Consortium for Brain Mapping (ICBM). Philos. Trans. R. Soc. Lond. B Biol. Sci. 356, 1293–1322. https://doi.org/10.1098/rstb.2001.0915 (2001).
+
+Müller A.C., Guido S. Introduction to Machine Learning with Python. 2016. O'Reilly Media, Inc. ISBN: 9781449369415
